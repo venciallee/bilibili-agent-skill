@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "bilibili-agent-skill",
+  "description": "The Bilibili agent skill pack for Claude",
+  "owner": { "name": "venciallee", "url": "https://github.com/venciallee" },
+  "plugins": [
+    {
+      "name": "bilibili-agent",
+      "description": "十二个运营 B站账号的 Claude skill，含钩子打分、标题封面联检、粗剪表、分段章节、留存与弹幕分析和爆款倍数排名。",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/venciallee/bilibili-agent-skill"
+    }
+  ]
+}

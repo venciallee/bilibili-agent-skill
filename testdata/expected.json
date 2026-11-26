@@ -1,0 +1,16 @@
+{
+ "duration": 494.1,
+ "sections": {
+  "hook": 0.0,
+  "source": 46.4,
+  "parse": 159.4,
+  "density": 294.8,
+  "skip": 387.2,
+  "outro": 472.0
+ },
+ "skip_target": 159,
+ "laugh_at": 209.4,
+ "confusion_at": 254.4,
+ "hype_at": 417.2,
+ "corrections_at": 71.4
+}

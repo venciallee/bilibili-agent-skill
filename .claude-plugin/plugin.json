@@ -1,0 +1,10 @@
+{
+  "name": "bilibili-agent",
+  "description": "十二个运营 B站账号的 Claude skill：按 21 个中文钩子公式写口播并打分、标题和封面联检、字幕生成粗剪表和分段章节、读留存曲线、读弹幕找空降和疑惑点、竖屏切片、简介标签、评论区、周计划、账号体检，以及按 UP 主自己中位数排的爆款分析。配套 Go 命令行工具 bili。",
+  "version": "1.0.0",
+  "author": { "name": "venciallee", "url": "https://github.com/venciallee" },
+  "homepage": "https://github.com/venciallee/bilibili-agent-skill",
+  "repository": "https://github.com/venciallee/bilibili-agent-skill",
+  "license": "MIT",
+  "keywords": ["bilibili", "b站", "danmaku", "弹幕", "up主", "video", "retention", "titles", "chapters"]
+}
